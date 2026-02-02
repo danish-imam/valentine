@@ -2,6 +2,10 @@
 
 A small Valentine's Day page: "Will you be my Valentine?" with a Yes button and a No button that runs away from the cursor.
 
+## Running locally
+`python3 -m http.server 8080`
+
+
 ## Deploy on GitHub Pages
 
 1. Push this repo to GitHub (see below).
